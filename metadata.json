@@ -1,0 +1,6 @@
+{
+  "name": "Aura Closet",
+  "description": "Digitize your clothes, track wear count, view smart calendar and weather integrations, and use server-side Gemini AI to recommended the perfect target outfit daily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
